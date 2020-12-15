@@ -1,13 +1,4 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    },
     "drivers": [
         {
             "id": 1,
@@ -15,6 +6,10 @@
             "location": {
                 "lat": 38.7223,
                 "lng": -9.1393
+            },
+            "start_location": {
+                "lat": 38.731541, 
+                "lng": -9.134472
             }
         },
         {
@@ -23,6 +18,10 @@
             "location": {
                 "lat": 38.746870,
                 "lng": -9.185712
+            },
+            "start_location": {
+                "lat": 38.750484, 
+                "lng": -9.197052
             }
         },
         {
@@ -31,7 +30,35 @@
             "location": {
                 "lat": 38.808781,
                 "lng": -9.304640
-            }
+            },
+            "start_location": {
+                "lat": 38.821454, 
+                "lng": -9.278880
+            }   
+        },
+        {
+            "id": 4,
+            "licence": "RD-76-85E",
+            "location": {
+                "lat": 38.966249, 
+                "lng": -9.321581
+            },
+            "start_location": {
+                "lat": 38.989094,
+                "lng": -9.344358
+            }   
+        },
+        {
+            "id": 5,
+            "licence": "CB-85-34M",
+            "location": {
+                "lat": 38.842647,
+                "lng": -7.570513
+            },
+            "start_location": {
+                "lat": 38.840641,
+                "lng": -7.541846
+            }   
         }
     ]
   }
